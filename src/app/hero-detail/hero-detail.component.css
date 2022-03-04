@@ -8,13 +8,15 @@ input {
 }
 button {
   margin-top: 20px;
+  margin-left: 10px;
   background-color: #eee;
   padding: 1rem;
   border-radius: 4px;
   font-size: 1rem;
 }
 button:hover {
-  background-color: #cfd8dc;
+  background-color: #2c3a41;
+  color: #00fa9a;
 }
 button:disabled {
   background-color: #eee;
